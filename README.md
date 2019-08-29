@@ -8,9 +8,11 @@ The player wakes up in an unknown forest and is greeted by an old man who tells 
 
 Gameplay:
 The player can interact with computer characters as well as enemies. 
+[Map](
 
 Combat:
 If a player lands on an enemy token, combat will begin. To start, the player has a sword and some magic abilities. As they progress through the game, they will learn new abilities and gain new items such as armor and weapons. 
+[Combat bandit](
 
 Leveling up:
 When a player defeats an enemy, they will be rewarded with xp (experience points). The player can use the xp to improve their abilities.
