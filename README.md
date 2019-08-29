@@ -8,11 +8,12 @@ The player wakes up in an unknown forest and is greeted by an old man who tells 
 
 Gameplay:
 The player can interact with computer characters as well as enemies. 
-[Map](
+![Map](https://github.com/cjmonson17/Quest-of-the-Ancients/blob/master/2019-08-29.png)
 
 Combat:
 If a player lands on an enemy token, combat will begin. To start, the player has a sword and some magic abilities. As they progress through the game, they will learn new abilities and gain new items such as armor and weapons. 
-[Combat bandit](
+![Combat bandit](https://github.com/cjmonson17/Quest-of-the-Ancients/blob/master/2019-08-29%20(1).png)
 
 Leveling up:
 When a player defeats an enemy, they will be rewarded with xp (experience points). The player can use the xp to improve their abilities.
+![Level up](https://github.com/cjmonson17/Quest-of-the-Ancients/blob/master/2019-08-29%20(2).png)
